@@ -1,0 +1,17 @@
+name: astro_weather
+version: 1.0.0
+author: tension
+description: 天气查询插件，支持多种天气查询功能
+display_name: 天气助手
+repository: https://github.com/tension/astro_weather
+keywords:
+  - weather
+  - forecast
+  - query
+license: MIT
+support_platforms:
+  - lark
+  - telegram
+  - discord
+  - aiocqhttp
+astrbot_version: ">=4.0.0"
