@@ -3,7 +3,7 @@ version: 1.0.0
 author: tension
 description: 天气查询插件，支持多种天气查询功能
 display_name: 天气助手
-repository: https://github.com/tension/astro_weather
+repository: git@github.com:XTLT/astro_weather.git
 keywords:
   - weather
   - forecast
