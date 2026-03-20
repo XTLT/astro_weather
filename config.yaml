@@ -1,0 +1,14 @@
+# astro_weather 插件配置文件
+# 修改后需要重启插件才能生效
+
+# API 配置
+api_base: "https://api.open-meteo.com/v1"  # Open-Meteo API 地址
+geocoding_api: "https://api.open-meteo.com/v1/geocoding"  # 地理编码 API 地址
+timeout: 10  # API 请求超时时间（秒）
+
+# 缓存配置
+cache_enabled: true  # 是否启用缓存
+cache_maxsize: 128  # 缓存最大条目数
+
+# 日志配置
+log_enabled: true  # 是否启用详细日志
